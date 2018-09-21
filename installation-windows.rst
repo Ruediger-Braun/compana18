@@ -49,4 +49,4 @@ Fragen
 
 
 
-.. _diese Seite von Microsoft: https://support.microsoft.com/de-de/kb/827218
+.. _diese Seite von Microsoft: https://support.microsoft.com/en-us/help/13443/windows-which-operating-system 
