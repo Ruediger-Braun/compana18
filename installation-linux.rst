@@ -20,12 +20,13 @@ Installation auf Linux-Rechnern
 .. code:: bash
 
   conda install jupyter
+  conda install spyder
   conda install scipy
   conda install sympy
   conda install matplotlib
   conda install scikit-image
 
-Es ist im Prinzip möglich, alle fünf Installationen in einem Befehl 
+Es ist im Prinzip möglich, alle sechs Installationen in einem Befehl 
 durchzuführen; dann besteht allerdings die Gefahr, dass sich das 
 Installationsprogramm bei der Berechnung des Abhängigkeitsgraphen 
 aufhängt.
