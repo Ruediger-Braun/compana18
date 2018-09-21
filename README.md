@@ -1,4 +1,4 @@
-# compana16
+# compana18
 Materialien zur Vorlesung "Computergestützte Mathematik zur Analysis" im WS 2018/19
 
 ## Benötige Software
