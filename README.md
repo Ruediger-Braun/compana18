@@ -14,6 +14,8 @@ Die Übungen finden an den Rechnern des Mathematischen Instituts statt.  Wenn Si
 Die graphische Oberfläche wird von [jupyter][6] in Zusammenarbeit mit
 einem modernen Browser, z.B. [firefox][7], bereit gestellt.
 
+## Installation
+
 Eine bequeme Installationsmethode bietet [conda][8].  Detaillierte
 Installationsanleitungen stehen für MS-Windows und Linux zur
 Verfügung:
