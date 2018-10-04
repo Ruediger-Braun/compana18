@@ -59,17 +59,26 @@ Studierenden auf die Gruppen.
 
 .. _`Online-Vorlesungsverzeichnis`: https://lsf.uni-duesseldorf.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=verpublish&status=init&vmfile=no&publishid=169130&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 
+Übungspunkte
+------------
+
+Jeden Donnerstag wird ein Übungsblatt herausgegeben.  Die Aufgaben werden in
+den Übungsstunden bearbeitet und dann sofort von den Mitarbeiterinnen und
+Mitarbeitern bewertet.  Das Semester wird in zwei Teile geteilt, nämlich "vor
+Weihnachten" und "nach Weihnachten".  An der Klausur kann nur teilnehmen, wer
+in jedem der beiden Teile mindestens 40% der jeweils möglichen Punkte erworben
+hat.
+
 Prüfungen
 ---------
 
-An der Prüfung kann nur teilnehmen, wer die Übungen besucht hat.  
-Es handelt sich um praktische Übungen am Rechner.
-Die Prüfungen finden ebenfalls am Rechner statt, und zwar
+Die Prüfungen finden am Rechner statt, und zwar
 
 - erste Klausur:  07.02.2019, Uhrzeit wird noch bekannt gegeben
 - zweite Klausur:  22.03.2019, Uhrzeit wird noch bekannt gegeben
   
-Die Zulassung wird durch Teilnahme an den Übungen erreicht.
+Wie unter `Übungspunkte`_ beschrieben, wird die Zulassung durch
+Teilnahme an den Übungen erreicht.  
 
 Studierende der Mathematik, die bereits einen erfolgslosen
 Prüfungsversuch in Computergestützten Mathematik zur Analysis
