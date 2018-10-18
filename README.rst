@@ -54,7 +54,7 @@ bereit gestellt und tauchen als lektionX.ipynb in der Dateiliste auf.
 Die parallel laufende Vorlesung  
 Computergestützte Mathematik zur Linearen Algebra hat ihre `eigene Seite`_
  
-.. _`eigene Seite`: http://www.am.uni-duesseldorf.de/~schaedle/lehre/ws2018/CompLA/_
+.. _`eigene Seite`: http://www.am.uni-duesseldorf.de/~schaedle/lehre/ws2018/CompLA/
 
 Übungsgruppen
 -------------
