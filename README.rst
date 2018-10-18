@@ -48,6 +48,15 @@ Anschließend findet die Vorlesung statt
 
 - donnerstags, 11:30-12:15 im Hörsaal 5E
 
+Die Vorlesungen zur Computergestützten Mathematik werden als Jupyter-Notebook
+bereit gestellt und tauchen als lektionX.ipynb in der Dateiliste auf.  
+
+Die parallel laufende Vorlesung  
+Computergestützte Mathematik zur Linearen Algebra hat ihre 
+ `eigene Seite`_
+ 
+.. _`eigene Seite`: <http://www.am.uni-duesseldorf.de/~schaedle/lehre/ws2018/CompLA/> `__
+
 Übungsgruppen
 -------------
 
@@ -62,7 +71,11 @@ Studierenden auf die Gruppen.
 Übungsblätter
 -------------
 
-- `Blatt 1 <http://www.math.uni-duesseldorf.de/~braun/compana18/ueb1.pdf>`__
+- `Blatt 1`_ 
+- `Blatt 2`_
+ 
+.. _`Blatt 1`: http://www.math.uni-duesseldorf.de/~braun/compana18/ueb1.pdf
+.. _`Blatt 2`: http://www.math.uni-duesseldorf.de/~braun/compana18/ueb2.pdf
 
 Übungspunkte
 ------------
@@ -82,7 +95,7 @@ Die Prüfungen finden am Rechner statt, und zwar
 - erste Klausur:  07.02.2019, Uhrzeit wird noch bekannt gegeben
 - zweite Klausur:  22.03.2019, Uhrzeit wird noch bekannt gegeben
   
-Wie unter `Übungspunkte`_ beschrieben, wird die Zulassung durch
+Wie unter Übungspunkte beschrieben, wird die Zulassung durch
 Teilnahme an den Übungen erreicht.  
 
 Studierende der Mathematik, die bereits einen erfolgslosen
