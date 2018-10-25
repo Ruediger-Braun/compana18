@@ -72,9 +72,14 @@ Studierenden auf die Gruppen.
 
 - `Blatt 1`_ 
 - `Blatt 2`_
+- `Blatt 3`_  Auf diesem Aufgabenblatt soll eine Klasse "Brueche" konstruiert
+werden.  Das Notebook `Aufgabe10_roh.ipynb`_ enthält ein Gerüst für diese 
+Klasse.  
  
 .. _`Blatt 1`: http://www.math.uni-duesseldorf.de/~braun/compana18/ueb1.pdf
 .. _`Blatt 2`: http://www.math.uni-duesseldorf.de/~braun/compana18/ueb2.pdf
+.. _`Blatt 3`: http://www.math.uni-duesseldorf.de/~braun/compana18/ueb3.pdf
+.. _`Aufgabe10_roh.ipynb`: http://www.math.uni-duesseldorf.de/~braun/compana18/Aufgabe10_roh.ipynb
 
 Übungspunkte
 ------------
