@@ -72,7 +72,7 @@ Studierenden auf die Gruppen.
 
 - `Blatt 1`_ 
 - `Blatt 2`_
-- `Blatt 3`_  Auf diesem Aufgabenblatt soll eine Klasse "Brueche" konstruiert
+- `Blatt 3`_  Auf diesem Aufgabenblatt soll eine Klasse "Bruch" konstruiert
   werden.  Das Notebook `Aufgabe10_roh.ipynb`_ enthält ein Gerüst für diese 
   Klasse.  
  
