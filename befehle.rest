@@ -1,0 +1,426 @@
+.. -*- coding: utf-8 -*-
+
+=========================================
+Computergestützte Mathematik zur Analysis
+=========================================
+
+-------------------------------------------------------------------
+Übersicht über die verwendeten Befehle, nach Lektionen geordnet
+-------------------------------------------------------------------
+
+.. contents:: Inhaltsverzeichnis
+              :backlinks: none
+
+Lektion 1
+*********
+
+Arithmetik
+==========
+
+* Befehle werden mit ``;``
+  oder ``:`` abgeschlossen.  Im
+  ersten Fall wird das Ergebnis angezeigt, im zweiten nicht.  
+  Zeilenende impliziert ``;``
+
+* ``+``, ``-``, ``*``, ``/``, ``//``, ``%``, ``**``
+
+  arithmetische Operatoren
+
+* ``#``
+
+  Kommentare
+
+
+Variablen
+=========
+
+* ``=``
+
+  Zuweisung
+
+* ``type``
+	    
+  Typ eines Ausdrucks
+
+* ``print``
+
+  einfache Ausgabe
+
+* ``j``
+
+  imaginäre Einheit (üblicherweise 'i', in Python 'j')
+
+
+Zeichenketten (engl. strings)
+=============================
+
+* ``'text'``
+
+  Zeichenketten. Können mit einfachen oder
+  doppelten Anführungszeichen angegeben werden
+
+* ``s[0]``
+
+  Zugriff auf Elemente des Strings s
+            
+
+Listen
+======
+
+* ``list``
+
+  Liste erstellen
+
+* ``[]``
+
+  Liste erstellen
+
+* ``append``
+
+  Elemente an eine Liste anfügen
+
+* ``len``
+
+  Länge einer Liste
+
+* ``l[0]``
+
+  Zugriff auf Elemente der Liste l
+
+* ``[[1,2],[3,4]]``
+
+  Liste von Listen
+
+
+Dictionaries (Wörterbücher)
+===========================
+
+* ``dict``
+
+  Wörterbuch erstellen
+
+* ``d[2]``
+
+  Aufruf
+
+* ``del``
+
+  Löschen von Einträgen
+
+
+Tupel
+=====
+
+* ``tuple``
+
+  Tupel erstellen
+
+* ``()``
+
+  Tupel erstellen
+
+
+Mengen
+======
+
+* ``set``
+
+  Menge erstellen
+
+* ``{}``
+
+  Menge erstellen
+
+* ``a in b``
+
+  prüft ob a in b enthalten ist
+
+* ``|``
+
+  Vereinigung
+
+
+Kopieren
+========
+
+* ``b=a``
+
+  Erstellt einen neuen Namen b für das das selbe Objekt, auf das auch a zeigt
+
+Text formatieren
+================
+
+* ``\it{text}``
+
+  Latex kursiv
+
+* ``*text*`` oder ``_text_``
+
+  kursiv
+
+* ``\bf{text}``
+
+  Latex fett
+
+* ``**text**`` oder ``__text__``
+
+  fett
+
+
+zurück zum Inhaltsverzeichnis_
+
+
+Lektion 2
+*********
+
+Boolesche Variablen und Operationen
+===================================
+
+* ``true, false``
+
+  wahr, falsch
+
+* ``and``, ``or``, ``|``, ``not``
+
+  logisches und, logisches oder, bitweises oder, Negation
+
+
+Vergleiche
+==========
+
+* ``<=``, ``<``, ``==``, ``>``, ``>=``, ``!=``
+
+  kleiner gleich, kleiner, gleich, größer, größer gleich, ungleich
+
+
+If Anweisungen
+==============
+
+* ``if``, ``elif``, ``else``
+
+  Verzweigungen
+
+* ``from numpy.random import rand``
+
+  Import der Bibliothek
+
+* ``rand``
+
+  Zufallszahlen in [0,1)
+
+
+Funktionen
+==========
+
+* ``def``
+
+  Funktionsdefinition
+
+* ``return``
+
+  Rückgabewert
+
+* ``?``
+
+  Hilfe zu einem Befehl
+
+* ``""" Sehr langer Kommentar """``
+
+  Lange oder mehrzeilige Kommentare
+
+* ``format``
+
+  Formatiert den Text
+
+
+for Schleife
+============
+
+* ``for``
+
+  Schleife (Blöcke werden durch Einrückung erklärt)
+
+* ``range``
+
+  konsekutive Folge von ganzen Zahlen (wie ``np.arange``, aber als Liste)
+
+
+while Schleife
+==============
+
+* ``while``
+
+  Schleife (Blöcke werden durch Einrückung erklärt)
+
+* ``randint(a,b)``
+
+  Zufallsinteger N mit a <= N <= b
+
+* ``a += b``
+
+  kurz für a = a + b
+
+
+Generatoren
+===========
+
+* ``for a in b``
+
+  Generator
+
+Ein Beispiel: Minimum
+=====================
+
+* ``abs``
+
+  Absolutbetrag
+
+* ``assert``
+
+  Testet auf Fehler
+
+* ``isinstance``
+
+  Typenvergleich
+
+* ``*``
+
+  Verwandelt Variable mit mehreren Einträgen in mehrere Variablen,
+  erlaubt beliebige Menge an Variablen in der Übergabe in einer Funktion
+
+
+zurück zum Inhaltsverzeichnis_
+
+
+Lektion 3
+*********
+
+Objektorientiete Programmierung
+===============================
+
+* ``objekt. + TAB Taste``
+
+  Zeigt mögliche Vervollständigungen an
+
+* ``dir``
+
+  zeigt Variablen und Methoden des Objekts an
+
+Klassen
+=======
+
+* ``class``
+
+  Klasse erstellen
+
+* ``pass``
+
+  macht nichts, Platzhalter
+
+* ``__init__``
+
+  Konstruktor der Klasse
+
+* ``self``
+
+  Bezeichner für das Objekt selbst,
+  muss immer das erste Argument jeder Methode sein,
+  wird aber nicht mit übergeben beim Aufruf
+
+* ``self.x``
+
+  objektinterne Variable
+
+* ``__repr__``
+
+  Darstellung des Objekts
+
+* ``__add__``, ``__sub__``, ``__mul__``, ``__truediv__``
+
+  Methoden zur Verwendung der Symbole +, -, *, /
+
+* ``__call__``
+
+  Aufruf des Objekts (z.B. objekt(argument))
+
+* ``keys``
+
+  Die Schlüssel eines Dictionaries
+
+zurück zum Inhaltsverzeichnis_
+
+
+Lektion 4
+*********
+
+
+zurück zum Inhaltsverzeichnis_
+
+Lektion 5
+*********
+
+
+zurück zum Inhaltsverzeichnis_
+
+Lektion 6
+*********
+
+
+zurück zum Inhaltsverzeichnis_
+  
+Lektion 7
+*********
+
+
+zurück zum Inhaltsverzeichnis_  
+
+Lektion 8
+*********
+
+
+zurück zum Inhaltsverzeichnis_
+
+Lektion 9
+*********
+
+
+zurück zum Inhaltsverzeichnis_
+
+Lektion 10
+**********
+
+
+zurück zum Inhaltsverzeichnis_
+
+Lektion 11
+**********
+
+
+zurück zum Inhaltsverzeichnis_
+
+Lektion 12
+**********
+
+
+zurück zum Inhaltsverzeichnis_
+
+Lektion 13
+**********
+
+  
+zurück zum Inhaltsverzeichnis_
+
+Lektion 14
+**********
+
+  
+zurück zum Inhaltsverzeichnis_
+
+----------------------
+
+© 2018-2019 `Rüdiger Braun`_ und `David Kerkmann`_
+
+zurück zum Inhaltsverzeichnis_
+
+.. _`Rüdiger Braun`: mailto:Ruediger.Braun@uni-duesseldorf.de 
+.. _`David Kerkmann`: mailto:David.Kerkmann@uni-duesseldorf.de
