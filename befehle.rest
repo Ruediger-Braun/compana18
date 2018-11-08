@@ -181,7 +181,7 @@ Lektion 2
 Boolesche Variablen und Operationen
 ===================================
 
-* ``True, False``
+* ``True``, ``False``
 
   wahr, falsch
 
@@ -247,7 +247,7 @@ for Schleife
 
 * ``range``
 
-  konsekutive Folge von ganzen Zahlen (wie ``np.arange``, aber als Liste)
+  konsekutive Folge von ganzen Zahlen als Liste
 
 
 while Schleife
@@ -359,8 +359,112 @@ zurück zum Inhaltsverzeichnis_
 Lektion 4
 *********
 
+numpy Funktionen
+================
+
+* ``import numpy as np``
+
+  Bibliothek numerischer Grundfunktionen
+
+* ``np.pi``
+
+  Numpy Approximation an die Zahl Pi
+
+* ``np.array``
+
+  Verwandlung von Liste in Array
+
+
+Array Variablen und Funktionen
+==============================
+
+* ``shape``
+
+  Form des Arrays (Anzahl der Elemente pro Dimension)
+
+* ``reshape``
+
+  Umformatierung des Arrays
+
+* ``flatten``
+
+  Array wird eindimensional gemacht
+
+* ``np.arange``
+
+  wie range nur als Array
+
+* ``np.linspace``
+
+  Vektor (array) aus gleichmäßig in einem Intervall verteilten Punkten
+
+* ``@``
+
+  Matrixprodukt
+
+
+Universelle Funktionen
+======================
+
+* ``np.sin``, ``np.cos``, ``np.exp``, ``np.arctan``, ...
+
+  numpy-Versionen der elementaren Funktionen 
+
+* ``%%timeit``
+
+  misst die Zeit der Befehlskette
+
+
+Plots
+=====
+
+* ``import matplotlib.pyplot as plt``
+  
+  Zeichenbibliothek zu numpy
+
+* ``%matplotlib inline``
+
+  Standard-Grafikmodus
+
+* ``plt.plot``
+
+  2D-Graphen unter ``matplotlib``
+
+
+Plotoptionen
+============
+
+* ``plt.axis``
+
+  Minimal- und Maximalwerte für die Achsen
+
+* ``plt.figure``
+
+  neues Bild wird angelegt
+
+* ``plt.title``
+
+  Überschrift
+  
+* ``plt.legend``
+
+  die Labels werden angezeigt
+
+* ``plt.subplots``
+
+  mehrere Grafiken in einem Bild
+
+* ``set_title``
+
+  Überschrift
+
+* ``set_facecolor``
+
+  Hintergrundfarbe
+
 
 zurück zum Inhaltsverzeichnis_
+
 
 Lektion 5
 *********
