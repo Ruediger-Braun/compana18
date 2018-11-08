@@ -74,11 +74,13 @@ Studierenden auf die Gruppen.
 - `Blatt 2`_
 - `Blatt 3`_  Auf diesem Aufgabenblatt soll eine Klasse "Bruch" konstruiert
   werden.  Das Notebook `Aufgabe10_roh.ipynb`_ enthält ein Gerüst für diese 
-  Klasse.  
+  Klasse. 
+- `Blatt 4`_ 
  
 .. _`Blatt 1`: http://www.math.uni-duesseldorf.de/~braun/compana18/ueb1.pdf
 .. _`Blatt 2`: http://www.math.uni-duesseldorf.de/~braun/compana18/ueb2.pdf
 .. _`Blatt 3`: http://www.math.uni-duesseldorf.de/~braun/compana18/ueb3.pdf
+.. _`Blatt 4`: http://www.math.uni-duesseldorf.de/~braun/compana18/ueb4.pdf
 .. _`Aufgabe10_roh.ipynb`: http://www.math.uni-duesseldorf.de/~braun/compana18/Aufgabe10_roh.ipynb
 
 Übungspunkte

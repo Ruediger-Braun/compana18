@@ -107,4 +107,7 @@ venv.bak/
 *.swp
 installation*.html
 README.html
+lektion*.py
+lektion*.html
+lektion*.pdf
 
