@@ -133,7 +133,7 @@ Mengen
 
 * ``a in b``
 
-  prüft ob a in b enthalten ist
+  prüft, ob a in b enthalten ist
 
 * ``|``
 
@@ -146,6 +146,11 @@ Kopieren
 * ``b=a``
 
   Erstellt einen neuen Namen b für das das selbe Objekt, auf das auch a zeigt
+
+* ``b=a[:]``
+
+  Erstellt ein neues Objekt b. Achtung: Die Einträge aus a können auch Zeiger sein!
+
 
 Text formatieren
 ================
@@ -226,11 +231,11 @@ Funktionen
 
 * ``""" Sehr langer Kommentar """``
 
-  Lange oder mehrzeilige Kommentare
+  lange oder mehrzeilige Kommentare
 
 * ``format``
 
-  Formatiert den Text
+  formatiert den Text
 
 
 for Schleife
@@ -277,7 +282,7 @@ Ein Beispiel: Minimum
 
 * ``assert``
 
-  Testet auf Fehler
+  testet auf Fehler
 
 * ``isinstance``
 
@@ -285,7 +290,7 @@ Ein Beispiel: Minimum
 
 * ``*``
 
-  Verwandelt Variable mit mehreren Einträgen in mehrere Variablen,
+  verwandelt Variable mit mehreren Einträgen in mehrere Variablen,
   erlaubt beliebige Menge an Variablen in der Übergabe in einer Funktion
 
 
@@ -300,7 +305,7 @@ Objektorientiete Programmierung
 
 * ``objekt. + TAB Taste``
 
-  Zeigt mögliche Vervollständigungen an
+  zeigt mögliche Vervollständigungen an
 
 * ``dir``
 
@@ -345,7 +350,8 @@ Klassen
 
 * ``keys``
 
-  Die Schlüssel eines Dictionaries
+  Schlüssel eines Dictionaries
+
 
 zurück zum Inhaltsverzeichnis_
 
