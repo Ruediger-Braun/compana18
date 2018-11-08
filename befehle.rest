@@ -145,7 +145,7 @@ Kopieren
 
 * ``b=a``
 
-  Erstellt einen neuen Namen b für das das selbe Objekt, auf das auch a zeigt
+  erstellt einen neuen Namen b für das das selbe Objekt, auf das auch a zeigt
 
 * ``b=a[:]``
 
@@ -181,7 +181,7 @@ Lektion 2
 Boolesche Variablen und Operationen
 ===================================
 
-* ``true, false``
+* ``True, False``
 
   wahr, falsch
 
@@ -207,7 +207,7 @@ If Anweisungen
 
 * ``from numpy.random import rand``
 
-  Import der Bibliothek
+  Import eines Elements der Bibliothek
 
 * ``rand``
 
@@ -231,7 +231,7 @@ Funktionen
 
 * ``""" Sehr langer Kommentar """``
 
-  lange oder mehrzeilige Kommentare
+  langer oder mehrzeiliger Text 
 
 * ``format``
 
@@ -342,7 +342,7 @@ Klassen
 
 * ``__add__``, ``__sub__``, ``__mul__``, ``__truediv__``
 
-  Methoden zur Verwendung der Symbole +, -, *, /
+  Methoden zur Verwendung der Symbole `+`, `-`, `*`, `/`
 
 * ``__call__``
 
