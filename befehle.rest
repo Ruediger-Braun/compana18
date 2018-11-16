@@ -469,6 +469,167 @@ zurück zum Inhaltsverzeichnis_
 Lektion 5
 *********
 
+Plotverschönerung
+=================
+
+* ``import itertools``
+
+  Paket mit Tools für iterative Programme
+
+* ``itertools.count``
+
+  zählender Iterator
+
+* ``zip``
+
+  erstellt einen Iterator, der aus Tupeln besteht
+
+* ``'-'``, ``'--'``, ``'-.'``, ``':'``
+
+  Linestyles
+
+* ``linewidth``
+
+  Dicke der Linie
+
+* ``plt.show``
+
+  zeigt ein Bild
+
+* ``'.'``, ``','``, ``'o'``, ``'^'``, etc.
+
+  Marker
+
+* ``markersize``
+
+  Größe des Markers
+
+* ``np.zeros_like``
+
+  Array mit Nullen. Dimension und Typ wie das Argument
+
+* ``np.ones_like``
+
+  Array mit Einsen. Dimension und Typ wie das Argument
+
+
+Broadcasting
+============
+
+* ``x+y``, ``x*y``
+
+  Broadcasting von Arrays
+
+* ``np.zeros``
+
+  Array mit Nullen
+
+* ``np.ones``
+
+  Array mit Einsen
+
+* ``z.dtype``
+
+  Datentyp der Einträge von z
+
+
+Ebene parametrische Plots
+=========================
+
+* ``plt.xticks``, ``plt.yticks``
+
+  Markierungen auf der x-/y-Achse
+
+* ``plt.polar``
+
+  Polarplot
+
+* ``plt.cm.viridis``
+
+  Färbung "viridis"
+
+
+3D-Plots
+========
+
+* ``from mpl_toolkits.mplot3d import Axes3D``
+
+  das muss man machen, obwohl Axes3D nicht direkt verwendet wird
+
+* ``np.meshgrid``
+
+  erzeugt X- und Y-Gitterkoordinaten
+
+* ``fig.add_subplot(111, projection='3d')``
+
+  erzeugt eine Achse, d.h. ein Koordinatensystem
+  dabei ist ``fig`` eine ``plt.figure``
+  projection='3d' für 3D-Plots, ohne 2D-Plot
+
+* ``ax.plot_surface``
+
+  3D-Graph, dabei ist ``ax`` eine Achse wie im vorigen Befehl
+
+* ``cmap``
+
+  Färbung des Bildes
+
+* ``rstride``. ``cstride``
+
+  Schrittweite zum Erstellen des Bildes in die jeweilige Richtung
+
+* ``alpha``
+
+  Transparenz des Bildes
+
+* ``plt.savefig``
+
+  speichert Bild in Datei
+
+* ``ax.plot_wireframe``
+
+  wie plot_surface, aber als Drahtmodell
+
+* ``ax.view_init``
+
+  Blickwinkel
+
+* ``ax.set_zticks``
+
+  Markierungen an der z-Achse (set_xticks, set_yticks genauso)
+
+* ``ax.contour``, ``plt.contour``
+
+  2D-Plot von Höhenlinien, in 3D-Plots benutzbar
+
+* ``ax.set_zlim3d``
+
+  Grenzen der z-Achse im Plot
+
+* ``ax.set_xlabel``, ``ax.set_ylabel``
+
+  Benennung der Achsen
+
+* ``from skimage import measure``
+
+  Paket mit Funtionen zur Berechnung von bestimmten Größen im Zusammenhang mit Plots
+
+* ``measure.find_contours``
+
+  Höhenlinien/Kontur für 2D-Daten
+
+* ``astype``
+
+  konvertiert Datentyp
+
+* ``measure.marching_cubes_lewiner``
+
+  Triangulierung der Kontur für 3D-Daten
+
+* ``ax.plot_trisurf``
+
+  3D-Plot einer Triangulierung
+
 
 zurück zum Inhaltsverzeichnis_
 
