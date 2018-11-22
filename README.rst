@@ -77,12 +77,14 @@ Studierenden auf die Gruppen.
   Klasse. 
 - `Blatt 4`_ 
 - `Blatt 5`_ 
+- `Blatt 6`_ 
  
 .. _`Blatt 1`: http://www.math.uni-duesseldorf.de/~braun/compana18/ueb1.pdf
 .. _`Blatt 2`: http://www.math.uni-duesseldorf.de/~braun/compana18/ueb2.pdf
 .. _`Blatt 3`: http://www.math.uni-duesseldorf.de/~braun/compana18/ueb3.pdf
 .. _`Blatt 4`: http://www.math.uni-duesseldorf.de/~braun/compana18/ueb4.pdf
 .. _`Blatt 5`: http://www.math.uni-duesseldorf.de/~braun/compana18/ueb5.pdf
+.. _`Blatt 6`: http://www.math.uni-duesseldorf.de/~braun/compana18/ueb6.pdf
 .. _`Aufgabe10_roh.ipynb`: http://www.math.uni-duesseldorf.de/~braun/compana18/Aufgabe10_roh.ipynb
 
 Übungspunkte
