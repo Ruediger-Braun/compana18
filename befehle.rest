@@ -633,8 +633,171 @@ Ebene parametrische Plots
 
 zurück zum Inhaltsverzeichnis_
 
+
 Lektion 6
 *********
+
+Symbolische Rechnung
+====================
+
+* ``from sympy import *``
+
+  Paket zur symbolischen Rechnung. Alle weiteren Befehle in dieser Lektion sind Teil dieses Pakets
+
+* ``Rational``
+
+  rationale Zahlen - im Gegensatz zu floats
+
+* ``zoo``
+
+  komplexes unendlich
+
+* ``oo``
+
+  unendlich
+
+* ``NaN``
+
+  unbestimmtes Ergebnis ("Not a Number")
+
+* ``N``
+
+  numerische Auswertung eines Ausdruckes
+
+
+Sympyfizierungen
+================
+
+* ``S``
+
+  verwandelt allgemeines Python-Objekt in ``sympy``-Objekt, falls das sinnvoll ist
+
+
+Symbole
+=======
+
+* ``x = S('x')``
+
+  Einrichtung eines Symbols
+
+* ``x = Symbol('x')``
+
+  alternative, siehe auch unter Annahmen_
+
+
+Funktion
+========
+
+* ``f(3*x)``
+
+  Funktionsaufruf mit Symbol x
+
+
+Ausdruck
+========
+
+* ``f = x**2``
+
+  Ausdruck mit Symbol x
+
+
+Ersetzungen
+===========
+
+* ``f.subs(x,3*x)``
+
+  Einsetzen von 3*x für x in Ausdruck f
+
+
+Singleton
+=========
+
+* ``x = S('x')``
+
+  erzeugt immer dasselbe Symbol
+
+
+Spezielle Werte und Funktionen
+==============================
+
+* ``I``
+
+  imaginäre Einheit
+
+* ``pi``
+
+  Pi
+
+* ``exp``
+
+  Exponentialfunktion
+
+* ``exp(1)``
+
+  Eulersche Zahl
+
+* ``sqrt``
+
+  Quadratwurzel
+
+* ``factorial``
+
+  Fakultät
+
+* ``from scipy import special``
+
+  scipy: Paket zum wissenschaftlichen Rechnen
+  special: spezielle Funktionen
+
+* ``cos``, ``asin``, ``tan``
+
+  Kosinus, Arkussinus, Tangens
+
+
+Vereinfachungen
+===============
+
+* ``simplify``
+
+  vereinfacht den Ausdruck unter Verwendung vieler Vereinfachungsfunktionen
+
+* ``expand``
+
+  multiplizierte den Ausdruck aus
+
+* ``factor``
+
+  Faktorisiert den Ausdruck. Berechnet keine Primfaktorzerlegung
+
+* ``ratsimp``
+
+  vereinfacht rationale Ausdrücke
+
+* ``powsimp``
+
+  vereinfacht Potenzen
+
+* ``trigsimp``
+
+  vereinfacht Ausdrücke mittels trigonometrischer Identitäten
+
+
+Annahmen
+========
+
+* ``Symbol('x', positive=True)``
+
+  das Symbol wird als positiv vereinbart
+
+* ``_assumptions``
+
+  zeigt die zu einem Objekt vereinbarten Annahmen (Attribute)
+
+
+Dreiwertige Logik
+=================
+
+  (siehe Lektion)
 
 
 zurück zum Inhaltsverzeichnis_
