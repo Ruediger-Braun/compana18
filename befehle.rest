@@ -4,9 +4,11 @@
 Computergestützte Mathematik zur Analysis
 =========================================
 
--------------------------------------------------------------------
+---------------------------------------------------------------------
 Übersicht über die verwendeten Befehle, nach Lektionen geordnet
--------------------------------------------------------------------
+Innerhalb der Lektionen sind die Befehle größtenteils nach Auftreten,
+nicht nach Semantik geordnet
+---------------------------------------------------------------------
 
 .. contents:: Inhaltsverzeichnis
               :backlinks: none
@@ -801,12 +803,105 @@ Dreiwertige Logik
 
 
 zurück zum Inhaltsverzeichnis_
-  
+
+
 Lektion 7
 *********
 
+Konkrete Polynome
+=================
+
+* ``degree``
+
+  Grad eines Polynoms
+
+* ``coeff``
+
+  Koeffizient eines Faktors
+
+
+universale Funktionen
+=====================
+
+* ``lambdify``
+
+  generiert universale Funktion aus sympy Funktion
+
+
+Operatoren und träge Operatoren
+===============================
+
+* ``limit``
+
+  Grenzwertbestimmung
+
+* ``Limit``
+
+  träger Operator zur Grenzwertbestimmung, d.h. der Grenzwert wird nicht ausgerechnet
+
+* ``doit``
+
+  führt träge Operatoren aus
+
+
+Darstellung
+===========
+
+* ``from IPython.display import Markdown, display``
+
+  Darstellungspaket
+
+* ``Markdown``
+
+  erzeugt "schöne" Ausgabe
+
+* ``display``
+
+  zeigt Ausdruck "möglichst schön" an
+
+* ``latex``
+
+  String für die LaTex Darstellung des Ausdrucks
+
+
+Operatoren und träge Operatoren (Fortsetzung)
+=============================================
+
+* ``diff``
+
+  Ableitungen
+
+* ``collect``
+
+  fasst den Ausdruck in bestimmten Termen zusammen
+
+* ``Integral``
+
+  träger Integraloperator
+
+
+weitere Funktionen
+==================
+
+* ``erf``
+
+  Fehlerfunktion
+
+* ``atan``
+
+  Arkustangens
+
+* ``replace``
+
+  ersetzt Ausdrücke, mächtiger als subs
+
+* ``floor``
+
+  Abrunden auf nächstkleinere ganze Zahl
+
 
 zurück zum Inhaltsverzeichnis_  
+
 
 Lektion 8
 *********
