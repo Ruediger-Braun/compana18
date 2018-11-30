@@ -6,9 +6,9 @@ Computergestützte Mathematik zur Analysis
 
 ---------------------------------------------------------------------
 Übersicht über die verwendeten Befehle, nach Lektionen geordnet
+---------------------------------------------------------------------
 Innerhalb der Lektionen sind die Befehle größtenteils nach Auftreten,
 nicht nach Semantik geordnet
----------------------------------------------------------------------
 
 .. contents:: Inhaltsverzeichnis
               :backlinks: none
