@@ -906,8 +906,60 @@ zurück zum Inhaltsverzeichnis_
 Lektion 8
 *********
 
+Summen und Reihen
+=================
+
+* ``Sum``
+
+  träger Summenoperator
+
+
+Sympy rechnet komplex
+=====================
+
+* ``re``
+
+  Realteil
+
+* ``im``
+
+  Imaginärteil
+
+
+Lösen von Gleichungen
+=====================
+
+* ``Eq``
+
+  Gleichung
+
+* ``solveset``
+
+  Lösen einer Gleichung
+
+* ``Glg.lhs``, ``Glg.rhs``
+
+  linke bzw. rechte Seite der Gleichung Glg
+
+* ``l.sort``
+
+  sortiert Liste l
+
+* ``l._get_interval``
+
+  gibt ein Interval an, in dem sich die Lösung l befindet
+
+* ``minimal_polynomial``
+
+  Minimalpolynom einer Zahl, falls es existiert
+
+* ``solve``
+
+  Lösung einer Gleichung oder eines Gleichungssystems, manchmal besser als solveset
+
 
 zurück zum Inhaltsverzeichnis_
+
 
 Lektion 9
 *********
