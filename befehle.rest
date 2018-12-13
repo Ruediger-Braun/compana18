@@ -964,8 +964,36 @@ zurück zum Inhaltsverzeichnis_
 Lektion 9
 *********
 
+Lambertsche W-Funktion
+======================
+
+* ``mpmath``
+
+  Paket zur Rechnung mit beliebiger Präzision
+
+* ``LambertW``
+
+  Lambertsche W-Funktion. In smypy: LambertW, in scipy.specical und mpmath: lambertw
+
+* ``y.real``, ``y.imag``
+
+  Real- bzw. Imaginärteil einer komplexen Zahl y  
+
+
+Reihenentwicklungen
+===================
+
+* ``series``
+
+  Reihenentwicklung
+
+* ``removeO``
+
+  entfernt den Ordnungsterm
+
 
 zurück zum Inhaltsverzeichnis_
+
 
 Lektion 10
 **********
