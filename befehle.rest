@@ -998,8 +998,48 @@ zurück zum Inhaltsverzeichnis_
 Lektion 10
 **********
 
+Numerisches Lösung von Gleichungen
+==================================
+
+* ``nsolve(glg,x0)``
+
+  numerische Lösung einer Gleichung mit Startwert x0
+
+* ``nsolve(glg,[x1,x2])``
+
+  numerische Lösung mit Startintervall [x1,x2]
+
+* ``nsolve(glg,[x1,x2],solver='bisect')``
+
+  Bisektionsverfahren
+
+* ``nsolve(glg,[x1,x2],solver='anderson')``
+
+  Anderson-Björk Verfahren
+
+* ``nsolve(glg,...,prec=100)``
+
+  numerische Lösung mit dezimaler Präzision 100
+
+
+Erhöhung der Genauigkeit
+========================
+
+* ``mpmath.mp.dps``
+
+  dezimale Präzision im Paket ``mpmath``
+
+
+Stückweise definierte Funktionen
+================================
+
+* ``Piecewise``
+
+  stückweise Definition einer Funktion
+
 
 zurück zum Inhaltsverzeichnis_
+
 
 Lektion 11
 **********
