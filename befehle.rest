@@ -1044,8 +1044,124 @@ zurück zum Inhaltsverzeichnis_
 Lektion 11
 **********
 
+Matrizen in sympy
+=================
+
+* ``Matrix``
+
+  Matrix (sympy)
+
+* ``A[1]``
+
+  Element an Stelle 1 (für Vektoren)
+
+* ``*``
+
+  Matrixmultiplikation
+
+* ``A[0,1]``
+
+  Element in Zeile 0, Spalte 1
+
+
+Slicing
+=======
+
+* ``A[1,:]``
+
+  Zeile 1
+
+* ``A[0,:]``
+
+  Spalte 0
+
+
+Spezielle Matrizen
+==================
+
+* ``eye(n)``
+
+  Einheitsmatrix der Größe n x n
+
+* ``ones(m,n)``
+
+  Matrix aus nur Einsen der Größe m x n
+
+* ``diag(*list)``
+
+  (Block-)Diagonalmatrix mit den Einträgen aus ``list`` als (Block-)Diagonalelemente
+
+
+Operationen
+===========
+
+* ``x.T``
+
+  Transposition
+
+* ``A**(-1)``
+
+  Inversion
+
+* ``A.det()``
+
+  Determinante
+
+* ``Matrix.vstack, Matrix.hstack``
+
+  vertikales bzw. horizontales Stapeln mehrerer Matrizen
+
+* ``flatten(A)``
+
+  erzeugt einen Vektor durch Konkatenation der Zeilen von A
+
+* ``Matrix(m,n,func)``
+
+  erzeugt Matrix der Größe m x n mittels Elementfunktion func
+
+
+Matrixplots
+===========
+
+* ``np.array(H)``
+
+  verwandelt Matrix H in ein np.array
+
+* ``plt.imshow``
+
+  2D Schema der Matrix
+
+* ``plt.colorbar``
+
+  Anzeige der Farbskala
+
+* ``np.sign``
+
+  Vorzeichenfunktion
+
+
+Lineare Gleichungssysteme
+=========================
+
+* ``[Symbol(f"x_{j}") for j in [1,2,3]]``
+
+  Symbole mit Indices (als String)
+
+
+Eigenwerte
+==========
+
+* ``A.eigenvals``
+
+  Eigenwerte von A
+
+* ``A.eigenvects``
+
+  Eigenwerte und Eigenvektoren von A
+
 
 zurück zum Inhaltsverzeichnis_
+
 
 Lektion 12
 **********
