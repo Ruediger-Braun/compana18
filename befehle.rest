@@ -1089,7 +1089,7 @@ Spezielle Matrizen
 
 * ``diag(*list)``
 
-  (Block-)Diagonalmatrix mit den Einträgen aus ``list`` als (Block-)Diagonalelemente
+  (Block-)Diagonalmatrix mit den Einträgen aus list als (Block-)Diagonalelemente
 
 
 Operationen
@@ -1113,7 +1113,7 @@ Operationen
 
 * ``flatten(A)``
 
-  erzeugt einen Vektor durch Konkatenation der Zeilen von A
+  erzeugt einen Zeilenvektor durch Konkatenation der Zeilen von A
 
 * ``Matrix(m,n,func)``
 
