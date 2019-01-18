@@ -1166,8 +1166,97 @@ zurück zum Inhaltsverzeichnis_
 Lektion 12
 **********
 
+Jordansche Normalform
+=====================
+
+* ``C.jordan_form``
+
+  Jordansche Normalform von C
+
+
+Rang einer Matrix
+=================
+
+* ``M.rank``
+
+  Rang von M
+
+* ``M.copy``
+
+  erzeugt eine Kopie des Objekts M
+
+* ``M.row_op``
+
+  Operation auf eine Zeile von M
+
+
+Normen und Vektoren und Matrizen
+================================
+
+* ``v.norm``
+
+  Euklidsche Norm von Vektor v
+
+* ``v.norm(oo)``
+
+  Maximumsnorm von Vektor v
+
+* ``v.norm(1)``
+
+  1-Norm von Vektor v
+
+* ``A.norm``
+
+  Frobeniusnorm von Matrix A
+
+* ``A.norm(2)``
+
+  2-Norm von Matrix A
+
+
+Vektoranalysis
+==============
+
+* ``sympy.abc``
+
+  vordefinierte Symbole
+
+* ``Matrix([f]).jacobian(xyz)``
+
+  Jacobimatrix der Abbildung f in den Variablen in xyz 
+
+* ``hessian(f, xyz)``
+
+  Hessematrix der Abbildung f in den Variablen in xyz
+
+* ``Function``
+
+  Funktion
+
+Hurwitz-Kriterium
+=================
+
+  siehe Vorlesung, keine neuen Befehle
+
+
+Extremwerte in mehreren Veränderlichen
+======================================
+
+* ``from matplotlibs.colors import Normalize``
+
+  Normalize normiert Daten in das [0,1] Intervall
+
+* ``ax.plot_surface(X, Y, W, cmap=plt.cm.viridis, norm=norm)``
+
+  Anwendung der Normalisierung norm auf die Färbung des Bildes
+
+* ``np.concatenate``
+
+  hängt Listen aneinander
+
 
 zurück zum Inhaltsverzeichnis_
+
 
 Lektion 13
 **********
