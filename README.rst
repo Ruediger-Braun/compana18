@@ -84,6 +84,7 @@ Studierenden auf die Gruppen.
 - `Blatt 10`_ 
 - `Blatt 11`_ 
 - `Blatt 12`_ 
+- `Blatt 13`_ 
  
 .. _`Blatt 1`: http://www.math.uni-duesseldorf.de/~braun/compana18/ueb1.pdf
 .. _`Blatt 2`: http://www.math.uni-duesseldorf.de/~braun/compana18/ueb2.pdf
@@ -97,6 +98,7 @@ Studierenden auf die Gruppen.
 .. _`Blatt 10`: http://www.math.uni-duesseldorf.de/~braun/compana18/ueb10.pdf
 .. _`Blatt 11`: http://www.math.uni-duesseldorf.de/~braun/compana18/ueb11.pdf
 .. _`Blatt 12`: http://www.math.uni-duesseldorf.de/~braun/compana18/ueb12.pdf
+.. _`Blatt 13`: http://www.math.uni-duesseldorf.de/~braun/compana18/ueb13.pdf
 .. _`Aufgabe10_roh.ipynb`: http://www.math.uni-duesseldorf.de/~braun/compana18/Aufgabe10_roh.ipynb
 
 Übungspunkte
