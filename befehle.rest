@@ -1261,14 +1261,24 @@ zurück zum Inhaltsverzeichnis_
 Lektion 13
 **********
 
-  
+Differentialgleichungen
+=======================
+
+* ``dsolve``
+
+  löst gewöhnliche Differentialgleichungen
+
+* ``plt.quiver``
+
+  2D Pfeilplot
+
+* ``linsolve``
+
+  Löser für lineare Gleichungssysteme
+
+
 zurück zum Inhaltsverzeichnis_
 
-Lektion 14
-**********
-
-  
-zurück zum Inhaltsverzeichnis_
 
 ----------------------
 
