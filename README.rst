@@ -137,6 +137,27 @@ muss die Zulassung neu erwerben,
 wenn er oder sie später einmal an einer Prüfung zu Computergestützte
 Mathematik zur Analysis teilnehmen will.
 
+Prüfungsdurchführung
+--------------------
+
+Die Prüfung findet am Rechner statt.  Auf den Rechnern befindet sich pro
+Aufgabe ein Jupyter-Notebook mit den benötigten Importen.  `matplotlib` ist
+auf `inline` gestellt.
+
+Der erste Schritt der Auswertung erfolgt automatisch.  Dabei werden sämtliche
+Ausgaben gelöscht, der Kernel zurückgesetzt, alle Aufgaben automatisch
+ausgeführt und das ausgeführte Notebook ausgedruckt.  Die ausgedruckte Version
+wird dann korrigiert.  Die Routine, welche das Notebook auswertet, setzt nach
+einem Fehler wieder auf.
+
+Am einfachsten testen Sie das, indem Sie 
+
+.. code:
+    
+    Kernel -> Restart and Run All
+
+ausführen.
+
 
 
 
