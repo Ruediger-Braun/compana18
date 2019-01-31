@@ -152,7 +152,7 @@ einem Fehler wieder auf.
 
 Am einfachsten testen Sie das, indem Sie 
 
-.. code:
+.. code::
     
     Kernel -> Restart and Run All
 
