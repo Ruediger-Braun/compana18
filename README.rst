@@ -121,6 +121,7 @@ Die Prüfungen finden am Rechner statt, und zwar
 Raumaufteilung:
 
 25.41.U1.22: Nachname A-Li
+
 25.41.00.43: Nachname Lo-Z
 
 - zweite Klausur:  22.03.2019, Uhrzeit wird noch bekannt gegeben
