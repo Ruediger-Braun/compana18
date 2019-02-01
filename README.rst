@@ -116,7 +116,13 @@ Prüfungen
 
 Die Prüfungen finden am Rechner statt, und zwar
 
-- erste Klausur:  07.02.2019, Uhrzeit wird noch bekannt gegeben
+- erste Klausur:  07.02.2019, 13:00 - 15:00 Uhr
+
+Raumaufteilung:
+
+25.41.U1.22: Nachname A-Li
+25.41.00.43: Nachname Lo-Z
+
 - zweite Klausur:  22.03.2019, Uhrzeit wird noch bekannt gegeben
   
 Wie unter Übungspunkte beschrieben, wird die Zulassung durch
