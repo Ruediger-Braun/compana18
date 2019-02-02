@@ -4,6 +4,12 @@ compana18
 Materialien zur Vorlesung "Computergestützte Mathematik zur Analysis" im
 WS 2018/19
 
+Klausur
+-------
+
+Die erste Klausur findet statt am Donnerstag, dem 07.02., von 13:00 bis 15:00.
+Die Aufteilung auf die Räume wird rechtzeitig bekanntgegeben.
+
 Benötige Software
 -----------------
 
