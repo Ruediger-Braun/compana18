@@ -10,6 +10,10 @@ Klausur
 Die erste Klausur findet statt am Donnerstag, dem 07.02., von 13:00 bis 15:00.
 Die Aufteilung auf die Räume wird rechtzeitig bekanntgegeben.
 
+Klausurhilfsmittel:  Erlaubt sind ein doppelseitig von eigener Hand
+beschriebenes Blatt.  Auf dem Prüfungsrechner finden Sie die Lektionen als
+`pdf` und als `ipynb` sowie die Datei `befehle` im HTML-Format.
+
 Benötige Software
 -----------------
 
