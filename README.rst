@@ -8,11 +8,19 @@ Klausur
 -------
 
 Die erste Klausur findet statt am Donnerstag, dem 07.02., von 13:00 bis 15:00.
-Die Aufteilung auf die Räume wird rechtzeitig bekanntgegeben.
 
-Klausurhilfsmittel:  Erlaubt sind ein doppelseitig von eigener Hand
+Klausurhilfsmittel
+++++++++++++++++++
+
+Erlaubt sind ein doppelseitig von eigener Hand
 beschriebenes Blatt.  Auf dem Prüfungsrechner finden Sie die Lektionen als
 `pdf` und als `ipynb` sowie die Datei `befehle` im HTML-Format.
+
+Raumaufteilung
+++++++++++++++
+
+* 25.41.U1.22: Nachname A-Li
+* 25.41.00.43: Nachname Lo-Z
 
 Benötige Software
 -----------------
@@ -128,11 +136,6 @@ Die Prüfungen finden am Rechner statt, und zwar
 
 - erste Klausur:  07.02.2019, 13:00 - 15:00 Uhr
 
-Raumaufteilung:
-
-25.41.U1.22: Nachname A-Li
-
-25.41.00.43: Nachname Lo-Z
 
 - zweite Klausur:  22.03.2019, Uhrzeit wird noch bekannt gegeben
   
