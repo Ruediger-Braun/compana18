@@ -7,7 +7,7 @@ WS 2018/19
 Klausur
 -------
 
-Die erste Klausur findet statt am Donnerstag, dem 07.02., von 13:00 bis 15:00.
+Die zweite Klausur findet statt am Freitag, dem 22.03., von 10:00 bis 12:00.
 
 Klausurhilfsmittel
 ++++++++++++++++++
@@ -19,8 +19,7 @@ beschriebenes Blatt.  Auf dem Prüfungsrechner finden Sie die Lektionen als
 Raumaufteilung
 ++++++++++++++
 
-* 25.41.U1.22: Nachname A-Li
-* 25.41.00.43: Nachname Lo-Z
+* 25.41.U1.22: alle Teilnehmenden
 
 Benötige Software
 -----------------
